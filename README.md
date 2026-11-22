@@ -102,7 +102,7 @@ The study reports the use of the following regression metrics:
 - **R² (coefficient of determination):** Measures how well predictions explain the variance in observed values. Higher values indicate a better fit.
 - **RMSE (root mean squared error):** Measures the typical magnitude of prediction errors while penalising larger errors more strongly.
 - **MSE (mean squared error):** Average squared prediction error.
-- **MAPE (mean absolute percentage error):** Expresses prediction error relative to actual values as a percentage. It can be problematic when actual values are zero.
+- **MAPE (mean absolute percentage error):** Expresses prediction error relative to actual values as a percentage.
 
 ## 6. Machine Learning Models
 
